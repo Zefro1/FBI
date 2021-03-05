@@ -19,7 +19,7 @@
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
+$ git clone https://github.com/Zefro1/FBI.git
 $ cd fbi
 ```
 
