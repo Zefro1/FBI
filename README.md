@@ -1,27 +1,45 @@
 
+
+```
+				 ________.   .__ 
+			       _/ ____\_ |__ |__|
+			       \   __\ | __ \|  |
+				|  |   | \_\ \  |
+				|__|   |___  /__|
+                                           \/    
+                                       
                                        FBI
                              [Facebook Informations]
 ```
-ФБР - это точный сбор информации учетной записи facebook, вся конфиденциальная информация может быть легко собрана, даже если цель конвертирует всю свою конфиденциальность в (только меня) конфиденциальную информацию о месте жительства, дате рождения, роде занятий, номере телефона и адресе электронной почты.
+FBI is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
 
-# [ Установка ]
+
+# [ Installation ]
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/Zefro1/Fbi.git
+$ git clone https://github.com/xHak9x/fbi.git
 $ cd fbi
 ```
 
-# [ Настройка ]
+# [ Setup ]
 ```
 $ pip2 install -r requirements.txt
 ```
-# [ Запуск ]
+# [ Running ]
 ```
 $ python2 fbi.py
 ```
+# [ Screenshot ]
+<img src="https://image.ibb.co/iLFhD9/fbi.png"/>
 
-* если вы не знаете, как его использовать, введите «help», чтобы отобразить меню справки.
-* [Предупреждение], пожалуйста, выключите VPN перед использованием этой программы !!!
-* [Подсказки] не злоупотребляйте этой программой !!!
+* if you are confused how to use it, please type 'help' to display the help menu
+* [Warn] please turn off your VPN before using this program !!!
+* [Tips] do not overuse this program !!!
+
+![](https://image.ibb.co/i4ES3U/bc.png)
+
+   ![](https://image.ibb.co/iniWV9/electrum_3_2_2_2018_08_30_21_49_44.png)
+
+Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
